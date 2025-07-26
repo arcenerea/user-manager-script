@@ -60,6 +60,11 @@ chmod +x user\_manager.sh
 
 sudo ./user\_manager.sh
 
+## Vista del script en ejecución
+
+![Demo del script](demo_script.png)
+
+
 
 
 
